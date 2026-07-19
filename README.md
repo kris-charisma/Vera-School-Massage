@@ -2,6 +2,10 @@
 
 A modern, responsive website for Vera School Massage services built with React, Vite, and Tailwind CSS.
 
+## About
+
+Vera School of Massage Therapy & Nails Care is a premier training institution in Rwanda, offering a comprehensive short course curriculum designed to launch your career in the luxury wellness sector. We are dedicated to excellence, precision, and the art of healing.
+
 ## Features
 
 - Modern, responsive design
