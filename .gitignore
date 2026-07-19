@@ -116,3 +116,9 @@ out
 
 # Vite
 dist
+
+# Build artifacts
+publish.zip
+
+# Temp files
+temp_docx/
